@@ -47,7 +47,7 @@ To run this application locally, follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/user-management-dashboard.git
+   git clone https://github.com/Siddarthprasanna/infotura-assignment-siddarth.git
    cd user-management-dashboard
 Install the dependencies:
 
