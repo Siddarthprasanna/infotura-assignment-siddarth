@@ -58,7 +58,7 @@ npm start
 Open your browser and navigate to http://localhost:3000.
 
 API Integration
-The application fetches user data from the following API:
+The application fetches user data from the following API: https://jsonplaceholder.typicode.com/users
 
 JSONPlaceholder Users API
 Error Handling
